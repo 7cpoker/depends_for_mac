@@ -1,0 +1,6 @@
+syntax = "proto3";
+
+message real {
+	optional float f = 1;
+	optional double d = 2;
+}
